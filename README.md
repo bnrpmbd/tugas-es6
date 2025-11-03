@@ -54,7 +54,7 @@ open index.html
 xdg-open index.html
 ```
 
-Atau melalui Live Server di VSCode
+Atau melalui Live Server di VSCode. 
 **Lihat output di Console Browser**, bukan di halaman web.
 
 ### 3️⃣ Jalankan di Terminal (Node.js)
@@ -225,7 +225,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - GitHub: [@bnrpmbd](https://github.com/bnrpmbd)
 - Email: banarpambudi.ti@gmail.com
-- LinkedIn: linkedin.com/in/banarpambudi
+- LinkedIn: [@banarpambudi](linkedin.com/in/banarpambudi)
 
 ## 🙏 Acknowledgments
 
